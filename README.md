@@ -13,6 +13,9 @@ Im also learning Web Development.
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/0ff"/> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/0ff"/> &nbsp;
 
+## Big project
+<i>(Coming Soon)</i>
+
 <br>
 
 <div align="center">
