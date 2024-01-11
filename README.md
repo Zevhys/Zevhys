@@ -1,22 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Rakha+Djauhari!;" />
+</h1>
 
-A student developer from Indonesia. Currently pursuing informatics engineering study program.
-Im also learning Web Development.
+<h3 align="center">🔖A Passionate Front End Web Developer based in Indonesia</h3>
 
+<div align="center">
+<h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
+</div>
 
+<div align="center">
+<h3>🚀 Let's make the virtual world a little more personal!</h3>
+ 
+<a href="mailto:pedro.sales.rakha2728@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+  
+<a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  
+<a href="https://www.instagram.com/avergons"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+</a>
+</div>
 
-## Im currently learning...
+ <hr/>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/0ff"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/0ff"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/0ff"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/0ff"/> &nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/0ff"/> &nbsp;
+<h2 align="center">⚒️ Currently Learning ⚙️</h2>
+<br/>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
+</div>
 
-## Big project
-<i>(Coming Soon)</i>
-
-<br>
+<hr/>
 
 <div align="center">
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
