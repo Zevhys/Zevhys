@@ -1,6 +1,8 @@
-<h1 align="center">
+ <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Rakha+Djauhari;+Tech+Enthusiast+🧑🏻‍💻;"/>
-</h1>
+</div>
+
+<hr>
 
 <h3 align="center">🔖A Passionate Front End Web Developer based in Indonesia</h3>
 
@@ -18,7 +20,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Currently Learning ⚙️</h2>
+<h3 align="center"><b>⚒️ Currently Learning ⚙️</b></h3>
 <br/>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
@@ -27,7 +29,8 @@
 <hr/>
 
 <div align="center">
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe&border=true&quote=Creativity%20solves%20everything%20&author=Me">
-</a>
+ <a href="https://github.com/piyushsuthar/github-readme-quotes">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_frappe&border=true&quote=Be%20patient%20Everything%20has%20its%20process%20&author=Me">
+  </a>
 </div>
+
