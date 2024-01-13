@@ -28,6 +28,6 @@
 
 <div align="center">
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe&quote=Creativity%20solves%20everything%20&author=Me">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe&border=true&quote=Creativity%20solves%20everything%20&author=Me">
 </a>
 </div>
