@@ -1,5 +1,11 @@
- <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=40&duration=5500&lines=Hi+There!+👋;+I'm+Rakha+Djauhari;+Tech+Enthusiast+🧑🏻‍💻;"/>
+<div align="center">
+ <img align="center" src="text.svg" alt="Welcome To, My Github Profile">
+</div>
+
+<hr>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1500&color=7479B1&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Rakha+Djauhari;Tech+Enthusiasts" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">🔖A Passionate Front End Web Developer based in Indonesia</h3>
@@ -31,4 +37,3 @@
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_frappe&border=true&quote=Be%20patient,%20Everything%20has%20its%20process%20&author=Me">
   </a>
 </div>
-
