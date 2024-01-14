@@ -1,5 +1,5 @@
  <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Rakha+Djauhari;+Tech+Enthusiast+🧑🏻‍💻;"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=40&duration=5500&lines=Hi+There!+👋;+I'm+Rakha+Djauhari;+Tech+Enthusiast+🧑🏻‍💻;"/>
 </div>
 
 <h3 align="center">🔖A Passionate Front End Web Developer based in Indonesia</h3>
