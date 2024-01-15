@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1006&color=80A1F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rakha+Djauhari+%F0%9F%8C%8A;Informatics+Engineering+Student+%F0%9F%8E%93;Tech+Enthusiast+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1503&color=9C87F7&center=true&vCenter=true&random=false&width=850&height=100&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rakha+Djauhari+%F0%9F%8C%8A;Informatics+Engineering+Student+%F0%9F%8E%93;Tech+Enthusiast+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">🔖 A Passionate Front End Web Developer based in Indonesia</h3>
