@@ -15,7 +15,7 @@
         }
 
         h1 {
-          background: linear-gradient(to right, #1a237e, #f5f5f5 30%, #121212);
+          background: linear-gradient(to right, #1a237e, #f5f5f5 30%, #C4F6BA);
           background-size: 200% auto;
           -webkit-background-clip: text;
           background-clip: text;
