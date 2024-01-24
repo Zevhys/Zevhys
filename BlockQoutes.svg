@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" width="900" height="900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <foreignObject width="100%" height="100%">
+    <div class="w" xmlns="http://www.w3.org/1999/xhtml">
+      <style xmlns="http://www.w3.org/1999/xhtml">
+        body {
+          font-size: 100%;
+          font-family: "Playfair Display", serif;
+          background: #333333;
+        }
+
+        .a {
+          margin: 3.7em auto;
+          border: 2em solid transparent;
+          background: linear-gradient(white, white) padding-box, url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/80625/sea.jpg) border-box  0 / cover;
+          box-shadow: 5px 3px 30px black;
+          font-size: 1.4em;
+          font-family: "Playfair Display", serif;
+          font-style: italic;
+          line-height: 1.5;
+          width: 40%;
+          text-align: center;
+        }
+
+        blockquote {
+          background: #00BFFF;
+        }
+
+        footer {
+          padding-top: 1.5em;
+        }
+
+        cite {
+          font-style: normal;
+          font-size: 1.2em;
+          font-weight: bold;
+          text-align: center;
+        }
+      </style>
+      <div class="a">
+        <blockquote>
+          "The More You Know, <br/> The More You Dont Know."
+          <footer>
+            <cite>
+              ♱ Rakha Djauhari ♱
+            </cite>
+          </footer>
+        </blockquote>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
