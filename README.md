@@ -35,5 +35,5 @@
 <hr/>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/Zevhys/Zevhys@main/BlockQoutes.svg">
+    <img src="BlockQoutes.svg">
 </div>
