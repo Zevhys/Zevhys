@@ -35,7 +35,5 @@
 <hr/>
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccino_frappe&border=true&quote=Be%20patient,%20Everything%20has%20its%20process%20&author=Me">
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/Zevhys/Zevhys@main/BlockQoutes.svg">
 </div>
