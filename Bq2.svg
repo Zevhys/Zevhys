@@ -16,6 +16,7 @@
         }
 
         blockquote {
+          margin: 3.7em auto;
           margin: 0;
           padding: 0;
           position: relative;
@@ -28,7 +29,7 @@
           font-smoothing: antialiased;
           -webkit-font-smoothing: antialiased;
           -moz-osx-fon-smoothing: grayscale;
-          border: 1px solid black;
+          color: white;
         }
 
         blockquote p:first-of-type:before {
