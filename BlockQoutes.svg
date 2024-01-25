@@ -24,6 +24,8 @@
 
         blockquote {
           background: #00BFFF;
+          font-size: 1.35em;
+          font-weight: bold;
         }
 
         footer {
