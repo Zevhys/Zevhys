@@ -4,7 +4,9 @@
   <img align="left" src="octocat.png" alt="Avatar Octocat" width="100" height="100">
 </div>
 
-<hr>
+<div align="center">
+<img src="hr.svg" align="center">
+</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1500&color=87B6F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rakha+Djauhari+%F0%9F%8C%8A;Coding+Addict+%E2%98%95;Tech+Enthusiast+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
@@ -34,6 +36,14 @@
 
 <hr/>
 
-<div align="center">
-    <img src="BlockQoutes.svg">
-</div>
+```javascript
+// TODO: Solve real-world problems or create more bugs?
+const realWorldProblems = true;
+const createBugs = false;
+
+if (realWorldProblems && !createBugs) {
+  console.log("Solving real-world problems like a coding superhero!");
+} else {
+  console.error("Accidentally created more bugs. Debug mode: ON!");
+}
+```
