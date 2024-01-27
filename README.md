@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="hr.svg" align="center">
+ <img src="hr.svg" align="center">
 </div>
 
 <div align="center">
@@ -26,7 +26,9 @@
   <a href="https://www.instagram.com/avergons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 </div>
 
- <hr/>
+<div align="center">
+ <img src="hr.svg" align="center">
+</div>
 
 <h3 align="center"><b>⚒️ Currently Learning ⚙️</b></h3>
 <br/>
@@ -34,7 +36,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
 </div>
 
-<hr/>
+<div align="center">
+ <img src="hr.svg" align="center">
+</div>
+
+<br/>
 
 ```javascript
 // TODO: Solve real-world problems or create more bugs?
