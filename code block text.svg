@@ -1,0 +1,61 @@
+<svg fill="none" width="500" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
+  <foreignObject width="100%" height="100%">
+    <div class="w" xmlns="http://www.w3.org/1999/xhtml">
+      <style xmlns="http://www.w3.org/1999/xhtml">
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        body {
+          background: #111;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+          font-family: "Fredoka One", impact;
+        }
+
+        h1 {
+          font-size: 70%;
+          color: rgb(200, 200, 210);
+          height: 100px;
+        }
+
+        span {
+          position: relative;
+          top: 40px;
+          animation: move 1s ease-in-out infinite alternate;
+          animation-delay: calc(var(--i) * 0.15s);
+        }
+
+        @keyframes move {
+          100% {
+            top: -20px;
+            text-shadow: 0 3px red,
+                         0 6px grey,
+                         0 9px gold,
+                         0 11px green,
+                         0 13px purple,
+                         0 14px cyan,
+                         0 15px orangered;
+          }
+        }
+      </style>
+      <div class="a">
+        <h1>
+          <span style="--i: 1">C</span>
+          <span style="--i: 2">O</span>
+          <span style="--i: 3">D</span>
+          <span style="--i: 4">E</span>
+          <span style="--i: 5">B</span>
+          <span style="--i: 6">L</span>
+          <span style="--i: 7">O</span>
+          <span style="--i: 6">C</span>
+          <span style="--i: 6">K</span>
+        </h1>    
+      </div>
+    </div>
+  </foreignObject>
+</svg>
