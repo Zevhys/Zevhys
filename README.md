@@ -21,9 +21,9 @@
 <div align="center">
   <h3>🚀 Let's make the virtual world a little more personal!</h3>
 
-  <a href="mailto:rakha2728@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://Discordapp.com/users/622601019733573642"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/avergons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+  <a href="https://www.instagram.com/avergons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow"/></a>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
  <img src="hr.svg" align="center">
 </div>
 
-<br/>
+<h3 align="center"><b>Code Blocks</b></h3>
 
 ```javascript
 // TODO: Solve real-world problems or create more bugs?
