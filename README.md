@@ -40,7 +40,7 @@
  <img src="hr.svg" align="center">
 </div>
 
-<h3 align="center"><b>Code Blocks</b></h3>
+<h3 align="center"><b>🔗 Code Blocks 🧩</b></h3>
 
 ```javascript
 // TODO: Solve real-world problems or create more bugs?
