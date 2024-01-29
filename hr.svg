@@ -14,8 +14,8 @@
             45deg,
             white,
             white .8em,
-            red .8em,
-            red 1.6em
+            black .8em,
+            black 1.6em
             );
         background-size: 200% 200%;
         animation: y 20s linear infinite;
