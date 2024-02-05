@@ -27,7 +27,10 @@
  <img src="hr.svg" align="center">
 </div>
 
-<img align="center" src="github-header-image.png">
+<div align="center">
+ <img align="center" src="github-header-image.png">
+</div>
+
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
