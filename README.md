@@ -43,6 +43,8 @@
  <img src="hr.svg" align="center">
 </div>
 
+</br>
+
 ```javascript
 // TODO: Solve real-world problems or create more bugs?
 const realWorldProblems = true;
