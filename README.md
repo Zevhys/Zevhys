@@ -13,14 +13,11 @@
 </div>
 
 <h3 align="center">🔖 A Passionate Front End Web Developer based in Indonesia</h3>
-
 <div align="center">
   <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
 </div>
-
 <div align="center">
   <h3>🚀 Let's make the virtual world a little more personal!</h3>
-
   <a href="https://Discordapp.com/users/622601019733573642"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/avergons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow"/></a>
