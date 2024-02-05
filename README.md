@@ -27,7 +27,7 @@
  <img src="hr.svg" align="center">
 </div>
 
-<h3 align="center"><b>⚒️ Currently Learning ⚙️</b></h3>
+<img align="center" src="github-header-image.png">
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
