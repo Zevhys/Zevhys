@@ -27,11 +27,14 @@
  <img src="hr.svg" align="center">
 </div>
 
+</br>
+
 <div align="center">
- <img align="center" src="github-header-image.png">
+ <img align="center" src="github-header-image.png" height="50px">
 </div>
 
-<br/>
+</br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,react,nodejs,vuejs,express,mysql,mongodb" />
 </div>
@@ -39,8 +42,6 @@
 <div align="center">
  <img src="hr.svg" align="center">
 </div>
-
-<h3 align="center"><b>🔗 Code Blocks 🧩</b></h3>
 
 ```javascript
 // TODO: Solve real-world problems or create more bugs?
