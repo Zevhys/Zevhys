@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- <img src="hr.svg" align="center">
+ <img src="hr.svg" align="center" width="1000px">
 </div>
 
 <div align="center">
