@@ -1,11 +1,11 @@
 <div align="center">
   <img align="center" src="text.svg" alt="Welcome To, My Github Profile">
-  <img align="right" src="octocat1.png" alt="Avatar Octocat" width="100" height="100">
-  <img align="left" src="octocat2.png" alt="Avatar Octocat" width="100" height="100">
+  <img align="right" src="octocat1.png" alt="Avatar Octocat" height="90">
+  <img align="left" src="octocat2.png" alt="Avatar Octocat" height="90">
 </div>
 
 <div align="center">
- <img src="hr.svg" align="center" width="1000px">
+ <img src="hr.svg" align="center">
 </div>
 
 <div align="center">
