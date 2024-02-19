@@ -46,13 +46,11 @@
 </br>
 
 ```javascript
-// TODO: Solve real-world problems or create more bugs?
-const realWorldProblems = true;
-const createBugs = false;
+let resp = await get("self.dreams")
 
-if (realWorldProblems && !createBugs) {
-  console.log("Solving real-world problems like a coding superhero!");
-} else {
-  console.error("Accidentally created more bugs. Debug mode: ON!");
+if (resp.status == 200) {
+  resp.data.forEach(dream => {
+    new Reality(dream)
+  })
 }
 ```
