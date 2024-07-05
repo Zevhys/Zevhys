@@ -12,7 +12,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1500&color=87B6F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rakha+Djauhari+%F0%9F%8C%8A;Coding+Addict+%E2%98%95;Tech+Enthusiast+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">🔖 A Passionate Front End Web Developer based in Indonesia</h3>
+<h3 align="center">🔖 A Passionate Web Developer based in Indonesia</h3>
 <div align="center">
   <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
 </div>
