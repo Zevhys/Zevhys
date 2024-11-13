@@ -18,9 +18,12 @@
 </div>
 <div align="center">
   <h3>🚀 Let's make the virtual world a little more personal!</h3>
-  <a href="https://Discordapp.com/users/622601019733573642"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/avergons"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow"/></a>
+  <a href="https://Discordapp.com/users/622601019733573642" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"><a>
+  <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a>
+  <a href="https://www.instagram.com/avergons" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><a>
+  <a href="https://ko-fi.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"><a>
 </div>
 
 <div align="center">
