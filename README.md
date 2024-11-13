@@ -18,11 +18,11 @@
 </div>
 <div align="center">
   <h3>🚀 Let's make the virtual world a little more personal!</h3>
-  <a href="https://Discordapp.com/users/622601019733573642" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"><a>
-  <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a>
-  <a href="https://www.instagram.com/avergons" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><a>
-  <a href="https://ko-fi.com/rakha" target="_blank">
+  <a href="https://Discordapp.com/users/622601019733573642"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a>
+  <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a>
+  <a href="https://www.instagram.com/avergons">
+  <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white"><a>
+  <a href="https://ko-fi.com/rakha">
   <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"><a>
 </div>
 
@@ -48,7 +48,35 @@
 
 </br>
 
-```javascript
+<table align="center">
+<tr>
+<th colspan="2">
+<img src="https://s2.svgbox.net/files.svg?ic=vscode" height="20">&nbsp;&nbsp;VSCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=fabf1e" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=2784f5" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=f5273c" height="17">
+</th>
+</tr>
+
+<tr>
+<td rowspan="3">
+
+<pre>
+my-app/
+├─ node_modules/
+├─ public/
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ robots.txt
+├─ src/
+│  ├─ index.css
+│  ├─ index.js
+├─ .gitignore
+├─ package.json
+├─ README.md
+</pre>
+
+</td>
+<td>
+
+```js
 let resp = await get("self.dreams")
 
 if (resp.status == 200) {
@@ -57,6 +85,17 @@ if (resp.status == 200) {
   })
 }
 ```
+
+</td>
+</tr>
+
+<tr><td></td></tr>
+
+<tr>
+<td colspan="2"><pre><img src="https://s2.svgbox.net/loaders.svg?ic=elastic-spinner&color=white" height="15">&nbsp;&nbsp;Loading...</pre></td>
+</tr>
+</table>
+
 <div align="center">
  <img src="hr.svg" align="center">
 </div>
