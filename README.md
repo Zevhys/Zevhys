@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/muhammad-rakha-djauhari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a>
   <a href="https://www.instagram.com/avergons" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"><a>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
+  <a href="https://ko-fi.com/rakha" target="_blank">
   <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"><a>
 </div>
 
