@@ -66,8 +66,8 @@ my-app/
 │  ├─ index.html
 │  ├─ robots.txt
 ├─ src/
-│  ├─ index.css
-│  ├─ index.js
+│  ├─ style.css
+│  ├─ script.js
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
