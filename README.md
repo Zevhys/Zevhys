@@ -51,7 +51,7 @@
 <table align="center">
 <tr>
 <th colspan="2">
-<img src="https://s2.svgbox.net/files.svg?ic=vscode" height="20">&nbsp;&nbsp;VSCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=fabf1e" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=2784f5" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=f5273c" height="17">
+<img src="https://s2.svgbox.net/files.svg?ic=vscode" height="20">&nbsp;&nbsp;VSCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=fabf1e" height="17">&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=2784f5" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=f5273c" height="17">
 </th>
 </tr>
 
@@ -77,13 +77,17 @@ my-app/
 <td>
 
 ```js
-let resp = await get("self.dreams")
+function prioritizeTasks(tasks) {
+    tasks.sort((a, b) => a - b);
 
-if (resp.status == 200) {
-  resp.data.forEach(dream => {
-    new Reality(dream)
-  })
+    tasks.forEach(task => {
+        console.log(`Executing task: ${task}`);
+    });
 }
+
+const tasks = [3, 1, 2];
+
+prioritizeTasks(tasks);
 ```
 
 </td>
