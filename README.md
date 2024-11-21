@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="text.svg" alt="Welcome To, My Github Profile">
-  <img align="right" src="octocat1.png" alt="Avatar Octocat" height="90">
-  <img align="left" src="octocat2.png" alt="Avatar Octocat" height="90">
+  <img align="right" src="octocat1.webp" alt="Avatar Octocat" height="90">
+  <img align="left" src="octocat2.webp" alt="Avatar Octocat" height="90">
 </div>
 
 <div align="center">
