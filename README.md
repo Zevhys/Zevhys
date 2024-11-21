@@ -33,7 +33,7 @@
 </br>
 
 <div align="center">
- <img align="center" src="github-header-image.png" height="50px">
+ <img align="center" src="github-header-image.webp" height="50px">
 </div>
 
 </br>
