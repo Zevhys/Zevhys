@@ -86,7 +86,6 @@ function prioritizeTasks(tasks) {
 }
 
 const tasks = [3, 1, 2];
-
 prioritizeTasks(tasks);
 ```
 
