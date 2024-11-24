@@ -103,4 +103,6 @@ prioritizeTasks(tasks);
  <img src="hr.svg" align="center">
 </div>
 
+</br>
+
 <img src="readmebox-custom.svg" />
