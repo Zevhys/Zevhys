@@ -17,13 +17,7 @@
   <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
 </div>
 <div align="center">
-  <h3>🚀 Let's make the virtual world a little more personal!</h3>
-  <a href="https://Discordapp.com/users/622601019733573642"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><a>
-  <a href="https://www.linkedin.com/in/rakha-djauhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a>
-  <a href="https://www.instagram.com/avergons">
-  <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white"><a>
-  <a href="https://ko-fi.com/rakha">
-  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=for-the-badge&logo=ko-fi&logoColor=white"><a>
+  <h3>✨ Turning ideas into reality through clean and creative code</h3>
 </div>
 
 <div align="center">
