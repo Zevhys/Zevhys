@@ -100,3 +100,5 @@ prioritizeTasks(tasks);
 </br>
 
 <img src="readmebox-custom.svg" />
+
+![](https://komarev.com/ghpvc/?username=Zevhys&color=blueviolet&style=pixel)
