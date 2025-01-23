@@ -1,0 +1,41 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 450 80" style="background-color: #00000000;" width="450px" height="80px">
+
+    
+                <path id="path0">
+                            <!-- Single line -->
+                                <animate id="d0" attributeName="d" begin="0s;d3.end" dur="4500ms" fill="remove" values="m0,40 h0 ; m0,40 h450 ; m0,40 h450 ; m0,40 h0" keyTimes="0;0.53333333333333;0.86666666666667;1"/>
+                    </path>
+    <text font-family="&quot;Consolas&quot;, monospace" fill="#58A6FF" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path0">
+            Hello There! 👋
+        </textPath>
+    </text>
+        <path id="path1">
+                            <!-- Single line -->
+                                <animate id="d1" attributeName="d" begin="d0.end" dur="4500ms" fill="remove" values="m0,40 h0 ; m0,40 h450 ; m0,40 h450 ; m0,40 h0" keyTimes="0;0.53333333333333;0.86666666666667;1"/>
+                    </path>
+    <text font-family="&quot;Consolas&quot;, monospace" fill="#58A6FF" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path1">
+            Code Explorer 🚀
+        </textPath>
+    </text>
+        <path id="path2">
+                            <!-- Single line -->
+                                <animate id="d2" attributeName="d" begin="d1.end" dur="4500ms" fill="remove" values="m0,40 h0 ; m0,40 h450 ; m0,40 h450 ; m0,40 h0" keyTimes="0;0.53333333333333;0.86666666666667;1"/>
+                    </path>
+    <text font-family="&quot;Consolas&quot;, monospace" fill="#58A6FF" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path2">
+            Code Craftsman ⚡
+        </textPath>
+    </text>
+        <path id="path3">
+                            <!-- Single line -->
+                                <animate id="d3" attributeName="d" begin="d2.end" dur="4500ms" fill="remove" values="m0,40 h0 ; m0,40 h450 ; m0,40 h450 ; m0,40 h0" keyTimes="0;0.53333333333333;0.86666666666667;1"/>
+                    </path>
+    <text font-family="&quot;Consolas&quot;, monospace" fill="#58A6FF" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+        <textPath xlink:href="#path3">
+            Always Learning 💡
+        </textPath>
+    </text>
+</svg>
