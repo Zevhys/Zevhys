@@ -33,16 +33,16 @@
 </br>
 
 <div align="center">
-  <img height="45" width="45" src="images/html5.svg"> &nbsp;
-  <img height="45" width="45" src="images/css3.svg"> &nbsp;
-  <img height="45" width="45" src="images/javascript.svg"> &nbsp;
-  <img height="45" width="45" src="images/bootstrap.svg"> &nbsp;
-  <img height="45" width="45" src="images/vue.js.svg"> &nbsp;
-  <img height="45" width="45" src="images/typescript.svg"> &nbsp;
-  <img height="45" width="45" src="images/node.js.svg"> &nbsp;
-  <img height="45" width="45" src="images/express.svg"> &nbsp;
-  <img height="45" width="45" src="images/mongodb.svg"> &nbsp;
-  <img height="45" width="45" src="images/python.svg"> &nbsp;
+  <img height="40" width="40" src="images/html5.svg"> &nbsp;
+  <img height="40" width="40" src="images/css3.svg"> &nbsp;
+  <img height="40" width="40" src="images/javascript.svg"> &nbsp;
+  <img height="40" width="40" src="images/bootstrap.svg"> &nbsp;
+  <img height="40" width="40" src="images/vue.js.svg"> &nbsp;
+  <img height="40" width="40" src="images/typescript.svg"> &nbsp;
+  <img height="40" width="40" src="images/node.js.svg"> &nbsp;
+  <img height="40" width="40" src="images/express.svg"> &nbsp;
+  <img height="40" width="40" src="images/mongodb.svg"> &nbsp;
+  <img height="40" width="40" src="images/python.svg"> &nbsp;
 </div>
 
 <div align="center">
