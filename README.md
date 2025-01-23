@@ -1,7 +1,7 @@
 <div align="center">
-  <img align="center" src="text.svg" alt="Welcome To, My Github Profile">
-  <img align="right" src="octocat1.webp" alt="Avatar Octocat" height="90">
-  <img align="left" src="octocat2.webp" alt="Avatar Octocat" height="90">
+  <img align="center" src="text.svg">
+  <img align="right" src="octocat1.webp" height="90">
+  <img align="left" src="octocat2.webp" height="90">
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1500&color=87B6F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Rakha+Djauhari+%F0%9F%8C%8A;Coding+Addict+%E2%98%95;Tech+Enthusiast+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <img src="images/typing.svg">
 </div>
 
 <h3 align="center">🔖 A Passionate Web Developer based in Indonesia</h3>
@@ -27,13 +27,22 @@
 </br>
 
 <div align="center">
- <img align="center" src="github-header-image.webp" height="50px">
+ <img align="center" src="github-header-image.webp" height="50px"> 
 </div>
 
 </br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,nodejs,vuejs,express,mongodb" />
+  <img height="45" width="45" src="images/html5.svg"> &nbsp;
+  <img height="45" width="45" src="images/css3.svg"> &nbsp;
+  <img height="45" width="45" src="images/javascript.svg"> &nbsp;
+  <img height="45" width="45" src="images/bootstrap.svg"> &nbsp;
+  <img height="45" width="45" src="images/vue.js.svg"> &nbsp;
+  <img height="45" width="45" src="images/typescript.svg"> &nbsp;
+  <img height="45" width="45" src="images/node.js.svg"> &nbsp;
+  <img height="45" width="45" src="images/express.svg"> &nbsp;
+  <img height="45" width="45" src="images/mongodb.svg"> &nbsp;
+  <img height="45" width="45" src="images/python.svg"> &nbsp;
 </div>
 
 <div align="center">
@@ -45,7 +54,7 @@
 <table align="center">
 <tr>
 <th colspan="2">
-<img src="https://s2.svgbox.net/files.svg?ic=vscode" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=fabf1e" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=2784f5" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=f5273c" height="17">
+<img src="images/vscode.svg" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=fabf1e" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=2784f5" height="17">&nbsp;&nbsp;<img src="https://s2.svgbox.net/materialui.svg?ic=circle&color=f5273c" height="17">
 </th>
 </tr>
 
@@ -89,7 +98,7 @@ prioritizeTasks(tasks);
 <tr><td></td></tr>
 
 <tr>
-<td colspan="2"><pre><img src="https://s2.svgbox.net/loaders.svg?ic=elastic-spinner&color=white" height="15">&nbsp;&nbsp;Loading...</pre></td>
+<td colspan="2"><pre><img src="images/spinner.svg" height="15">&nbsp;&nbsp;Loading...</pre></td>
 </tr>
 </table>
 
