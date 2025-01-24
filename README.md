@@ -108,6 +108,6 @@ prioritizeTasks(tasks);
 
 </br>
 
-<img src="images/readmebox.svg">
+<img align="center" src="images/readmebox.svg">
 
 ![](https://komarev.com/ghpvc/?username=Zevhys&color=blueviolet&style=pixel)
