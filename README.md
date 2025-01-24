@@ -1,11 +1,11 @@
 <div align="center">
-  <img align="center" src="text.svg">
-  <img align="right" src="octocat1.webp" height="90">
-  <img align="left" src="octocat2.webp" height="90">
+  <img src="images/text.svg">
+  <img align="right" src="images/octocat1.webp" height="90">
+  <img align="left" src="images/octocat2.webp" height="90">
 </div>
 
 <div align="center">
- <img src="hr.svg" align="center">
+ <img src="images/hr.svg">
 </div>
 
 <div align="center">
@@ -21,13 +21,13 @@
 </div>
 
 <div align="center">
- <img src="hr.svg" align="center">
+ <img src="images/hr.svg">
 </div>
 
 </br>
 
 <div align="center">
- <img align="center" src="github-header-image.webp" height="50px"> 
+ <img src="images/header.webp" height="50px"> 
 </div>
 
 </br>
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
- <img src="hr.svg" align="center">
+ <img src="images/hr.svg">
 </div>
 
 </br>
@@ -103,11 +103,11 @@ prioritizeTasks(tasks);
 </table>
 
 <div align="center">
- <img src="hr.svg" align="center">
+ <img src="images/hr.svg">
 </div>
 
 </br>
 
-<img src="readmebox-custom.svg" />
+<img src="images/readmebox.svg">
 
 ![](https://komarev.com/ghpvc/?username=Zevhys&color=blueviolet&style=pixel)
