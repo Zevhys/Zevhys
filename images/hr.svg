@@ -1,44 +1,26 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" width="1012" height="7" viewBox="0 0 1012 7">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style xmlns="http://www.w3.org/1999/xhtml">
-      .a,
-      .b {
-        color: transparent;
-      }
-
-      .a {
-        width: 100%;
-        height: 100%;
-        background: repeating-linear-gradient(
-            45deg,
-            white,
-            white .8em,
-            transparent .8em,
-            transparent 1.6em
-            );
-        background-size: 200% 200%;
-        animation: y 20s linear infinite;
-      }
-
-      @keyframes y {
-        to {
-          background-position: 100%
-        }
-      }
-
-      .c {
-        display: flex;
-      }
-
-      .a {
-        flex-shrink: 1
-      }
-
-      </style>
-      <div class="c">
-        <div class="a">a</div>
-      </div>
-    </div>
-  </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 80">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="50%" stop-color="#4B0082" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="0" y="38" width="500" height="4" fill="url(#gradient)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+  </rect>
+  
+  <circle cx="250" cy="40" r="8" fill="#8A2BE2">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="100" cy="40" r="6" fill="#4B0082">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="400" cy="40" r="6" fill="#4B0082">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+  </circle>
 </svg>
