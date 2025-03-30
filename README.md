@@ -27,7 +27,7 @@
 </br>
 
 <div align="center">
- <img src="images/header.webp" height="50px"> 
+ <img src="images/header.png" height="50px"> 
 </div>
 
 </br>
