@@ -1,0 +1,51 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --primary-color: #3B82F6;
+      --secondary-color: #8B5CF6;
+      --text-color: #1F2937;
+      --bg-color: #FFFFFF;
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --primary-color: #60A5FA;
+        --secondary-color: #A78BFA;
+        --text-color: #F9FAFB;
+        --bg-color: #1F2937;
+      }
+    }
+    
+    .banner-bg {
+      fill: var(--bg-color);
+    }
+    
+    .dash-border {
+      fill: none;
+      stroke: var(--primary-color);
+      stroke-width: 2;
+      stroke-dasharray: 8 4;
+    }
+    
+    .main-text {
+      fill: var(--text-color);
+      font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+      letter-spacing: -0.01em;
+    }
+  </style>
+  
+  <rect x="5" y="5" width="290" height="70" rx="8" ry="8" class="banner-bg"/>
+  
+  <rect x="5" y="5" width="290" height="70" rx="8" ry="8" class="dash-border">
+    <animate attributeName="stroke-dashoffset" 
+             values="0;-24;0" 
+             dur="2s" 
+             repeatCount="indefinite"/>
+  </rect>
+  
+  <text x="150" y="45" text-anchor="middle" class="main-text">
+    Code Core Set
+  </text>
+</svg>
