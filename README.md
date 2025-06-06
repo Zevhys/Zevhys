@@ -12,7 +12,7 @@
   <img src="images/typing.svg">
 </div>
 
-<h3 align="center">🔖 A Passionate Web Developer based in Indonesia</h3>
+<h3 align="center">🔖 A Passionate Software Developer based in Indonesia</h3>
 <div align="center">
   <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
 </div>
