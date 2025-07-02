@@ -42,6 +42,7 @@
   <img height="40" width="40" src="images/node.js.svg"> &nbsp;
   <img height="40" width="40" src="images/express.svg"> &nbsp;
   <img height="40" width="40" src="images/python.svg"> &nbsp;
+  <img height="40" width="40" src="images/java.svg"> &nbsp;
   <img height="40" width="40" src="images/mongodb.svg"> &nbsp;
   <img height="40" width="40" src="images/linux.svg"> &nbsp;
 </div>
