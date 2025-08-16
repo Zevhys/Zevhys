@@ -36,6 +36,7 @@
   <img height="40" width="40" src="images/html5.svg"> &nbsp;
   <img height="40" width="40" src="images/css3.svg"> &nbsp;
   <img height="40" width="40" src="images/javascript.svg"> &nbsp;
+  <img height="40" width="40" src="images/webpack.svg"> &nbsp;
   <img height="40" width="40" src="images/bootstrap.svg"> &nbsp;
   <img height="40" width="40" src="images/vue.js.svg"> &nbsp;
   <img height="40" width="40" src="images/typescript.svg"> &nbsp;
