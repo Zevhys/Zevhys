@@ -84,17 +84,21 @@ my-app/
 </td>
 <td>
 
-```js
-function prioritizeTasks(tasks) {
-    tasks.sort((a, b) => a - b);
+```py
+from typing import List
 
-    tasks.forEach(task => {
-        console.log(`Executing task: ${task}`);
-    });
-}
+def evolve(priorities: List[str]) -> None:
+    for focus in sorted(priorities):
+        print(f"✨ [Evolve] Progressing: {focus}...")
 
-const tasks = [3, 1, 2];
-prioritizeTasks(tasks);
+if __name__ == "__main__":
+    wisdom_path: List[str] = [
+        "Mental Health", 
+        "Consistency", 
+        "Self-Love"
+    ]
+    
+    evolve(wisdom_path)
 ```
 
 </td>
