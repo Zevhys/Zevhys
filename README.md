@@ -67,18 +67,23 @@
 <td rowspan="3">
 
 <pre>
-my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
-│  ├─ style.css
-│  ├─ script.js
-├─ .gitignore
-├─ package.json
-├─ README.md
+heart-disease-detection/  
+├─ data/
+│  ├─ raw/                
+│  ├─ processed/          
+│  └─ external/           
+├─ notebooks/             
+│  └─ 01_eda_analysis.ipynb
+├─ models/                
+├─ src/                   
+│  ├─ data_loader.py
+│  ├─ preprocessing.py
+│  └─ train_model.py
+├─ reports/               
+│  └─ figures/
+├─ .gitignore             
+├─ requirements.txt       
+└─ README.md              
 </pre>
 
 </td>
