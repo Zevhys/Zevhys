@@ -58,13 +58,9 @@
 
 <table align="center">
 <tr>
-<th colspan="2">
-<img src="images/vscode.svg" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/circle1.svg" height="17">&nbsp;&nbsp;<img src="images/circle2.svg" height="17">&nbsp;&nbsp;<img src="images/circle3.svg" height="17">
-</th>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td rowspan="3">
+### :open_file_folder: Project Structure
 
 <pre>
 heart-disease-detection/  
@@ -85,34 +81,46 @@ heart-disease-detection/
 ├─ requirements.txt       
 └─ README.md              
 </pre>
-
 </td>
-<td>
+<td width="50%" valign="top">
 
-```py
+### :bulb: Core Philosophy
+
+```python
 from typing import List
 
 def evolve(priorities: List[str]) -> None:
+    """Transform priorities into progress"""
     for focus in sorted(priorities):
         print(f"✨ [Evolve] Progressing: {focus}...")
 
 if __name__ == "__main__":
-    wisdom_path: List[str] = [
-        "Mental Health", 
-        "Consistency", 
+    wisdom_path:  List[str] = [
+        "Mental Health",
+        "Consistency",
         "Self-Love"
     ]
     
     evolve(wisdom_path)
 ```
-
 </td>
 </tr>
-
-<tr><td></td></tr>
-
 <tr>
-<td colspan="2"><pre><img src="images/spinner.svg" height="15">&nbsp;&nbsp;Loading...</pre></td>
+<td colspan="2" align="center">
+<details>
+<summary>:outbox_tray: Show Output</summary>
+<pre>
+✨ [Evolve] Progressing: Consistency... 
+✨ [Evolve] Progressing: Mental Health...  
+✨ [Evolve] Progressing: Self-Love... 
+</pre>
+</details>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<sub><img src="images/spinner.svg" height="10">&nbsp;&nbsp;<i>Building resilience through code...</i> &nbsp;|&nbsp; Last updated: 2026-01-05</sub>
+</td>
 </tr>
 </table>
 
