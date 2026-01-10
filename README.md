@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/text.svg">
-  <img align="right" src="images/octocat1.webp" height="90px" width="90px">
-  <img align="left" src="images/octocat2.webp" height="90px" width="90px">
+  <img align="right" src="images/octocat2.webp" height="90px" width="90px">
+  <img align="left" src="images/octocat1.webp" height="90px" width="90px">
 </div>
 
 <div align="center">
