@@ -1,6 +1,6 @@
 <div align="center">
   <img src="images/text.svg">
-  <img align="right" src="images/octocats2.webp" height="90px" width="90px">
+  <img align="right" src="images/octocatss2.webp" height="90px" width="90px">
   <img align="left" src="images/octocats1.webp" height="90px" width="90px">
 </div>
 
