@@ -55,7 +55,6 @@
 </div>
 
 </br>
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -63,23 +62,25 @@
 ### :open_file_folder: Project Structure
 
 <pre>
-heart-disease-detection/  
-├─ data/
-│  ├─ raw/                
-│  ├─ processed/          
-│  └─ external/           
-├─ notebooks/             
-│  └─ 01_eda_analysis.ipynb
-├─ models/                
-├─ src/                   
-│  ├─ data_loader.py
-│  ├─ preprocessing.py
-│  └─ train_model.py
-├─ reports/               
-│  └─ figures/
-├─ .gitignore             
-├─ requirements.txt       
-└─ README.md              
+heart-disease-detection/
+├── config/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
+├── notebooks/
+│   └── 01_eda_analysis.ipynb
+├── models/
+├── src/
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   └── train_model.py
+├── tests/
+├── reports/
+│   └── figures/
+├── .gitignore
+├── requirements.txt
+└── README.md              
 </pre>
 </td>
 <td width="50%" valign="top">
@@ -89,18 +90,22 @@ heart-disease-detection/
 ```python
 from typing import List
 
-def evolve(priorities: List[str]) -> None:
-    for focus in sorted(priorities):
-        print(f"✨ [Evolve] Progressing: {focus}...")
+
+def build_pipeline(steps: List[str]) -> None:
+    for step in steps:
+        print(f"🧩 [Pipeline] Now focusing on: {step}")
+
 
 if __name__ == "__main__":
-    wisdom_path:  List[str] = [
-        "Mental Health",
-        "Consistency",
-        "Self-Love"
+    project_steps: List[str] = [
+        "Config & Data Paths",
+        "Exploratory Data Analysis",
+        "Preprocessing & Features",
+        "Model Training & Evaluation",
+        "Reports & Figures",
     ]
-    
-    evolve(wisdom_path)
+
+    build_pipeline(project_steps)
 ```
 </td>
 </tr>
@@ -108,17 +113,17 @@ if __name__ == "__main__":
 <td colspan="2" align="center">
 <details>
 <summary>:outbox_tray: Show Output</summary>
-<pre>
-✨ [Evolve] Progressing: Consistency... 
-✨ [Evolve] Progressing: Mental Health...  
-✨ [Evolve] Progressing: Self-Love... 
-</pre>
+<sub>:jigsaw: [Pipeline] Now focusing on: Config & Data Paths</sub><br>  
+<sub>:jigsaw: [Pipeline] Now focusing on: Exploratory Data Analysis</sub><br>  
+<sub>:jigsaw: [Pipeline] Now focusing on: Preprocessing & Features</sub><br>  
+<sub>:jigsaw: [Pipeline] Now focusing on: Model Training & Evaluation</sub><br>  
+<sub>:jigsaw: [Pipeline] Now focusing on: Reports & Figures</sub><br>  
 </details>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<sub><img src="images/spinner.svg" height="10">&nbsp;&nbsp;<i>Building resilience through code...</i> &nbsp;|&nbsp; Last updated: Sunday, 18 January 2026, 8:40 PM</sub>
+<sub><img src="images/spinner.svg" height="10">&nbsp;&nbsp;<i>Building resilience through code...</i> &nbsp;|&nbsp; Last updated: Friday, 30 January 2026, 09:47 UTC+7</sub>
 </td>
 </tr>
 </table>
