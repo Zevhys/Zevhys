@@ -36,18 +36,19 @@
   <img height="40" width="40" src="images/html5.svg"> &nbsp;
   <img height="40" width="40" src="images/css3.svg"> &nbsp;
   <img height="40" width="40" src="images/javascript.svg"> &nbsp;
-  <img height="40" width="40" src="images/webpack.svg"> &nbsp;
+  <img height="40" width="40" src="images/Webpack-Dark.svg"> &nbsp;
   <img height="40" width="40" src="images/bootstrap.svg"> &nbsp;
-  <img height="40" width="40" src="images/vue.js.svg"> &nbsp;
+  <img height="40" width="40" src="images/VueJS-Dark.svg"> &nbsp;
   <img height="40" width="40" src="images/typescript.svg"> &nbsp;
-  <img height="40" width="40" src="images/node.js.svg"> &nbsp;
-  <img height="40" width="40" src="images/express.svg"> &nbsp;
-  <img height="40" width="40" src="images/python.svg"> &nbsp;
-  <img height="40" width="40" src="images/java.svg"> &nbsp;
-  <img height="40" width="40" src="images/cpp.svg"> &nbsp;
-  <img height="40" width="40" src="images/mongodb.svg"> &nbsp;
-  <img height="40" width="40" src="images/mysql.svg"> &nbsp;
-  <img height="40" width="40" src="images/linux.svg"> &nbsp;
+  <img height="40" width="40" src="images/NodeJS-Dark.svg"> &nbsp;
+  <img height="40" width="40" src="images/ExpressJS-Dark.svg"> &nbsp;
+  <img height="40" width="40" src="images/Python-Dark.svg"> &nbsp;
+  <img height="40" width="40" src="images/Java-Dark.svg"> &nbsp;
+  <img height="40" width="40" src="images/CS.svg"> &nbsp;
+  <img height="40" width="40" src="images/CPP.svg"> &nbsp;
+  <img height="40" width="40" src="images/MongoDB.svg"> &nbsp;
+  <img height="40" width="40" src="images/MySQL-Dark.svg"> &nbsp;
+  <img height="40" width="40" src="images/Linux-Dark.svg"> &nbsp;
 </div>
 
 <div align="center">
