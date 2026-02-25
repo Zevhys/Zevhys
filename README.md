@@ -33,7 +33,7 @@
 </br>
 
 <div align="center">
-  <!-- <img height="40" width="40" src="images/html5.svg"> &nbsp; -->
+  <img height="40" width="40" src="images/html5.svg"> &nbsp;
   <img height="40" width="40" src="images/css3.svg"> &nbsp;
   <img height="40" width="40" src="images/javascript.svg"> &nbsp;
   <img height="40" width="40" src="images/Webpack-Dark.svg"> &nbsp;
